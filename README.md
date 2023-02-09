@@ -12,7 +12,9 @@ This project is for my portfolio. It is a blog template not styled a lot but foc
 - [Setup MongoDB](#Prerequisite-to-start-development-server)  
   - [Start Mongosh](#Start-Mongosh)  
   - [Start node JS server](#Start-node-JS-server)  
-  - [Browser Link](#Browser)
+  - [Browser Link](#Browser)  
+  
+- [Continued development](#Continued-development)
 
 ## Overview
  
@@ -69,3 +71,7 @@ npm start
 In browser URL paste the link: ``` http://localhost:3000/ ```
 
 Now you can play around.
+
+### Continued-development
+
+Yes you can Modify this code and can style it however you want.
